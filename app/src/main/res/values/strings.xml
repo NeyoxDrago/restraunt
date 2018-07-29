@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">restaurant</string>
+    <string-array name="tyoes">
+        <item>Owner</item>
+        <item>Manager</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>
